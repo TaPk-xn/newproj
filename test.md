@@ -1,6 +1,7 @@
 safdasfdasdf
 
 ```
+// class
 public class Test {
     public void test() {
         // do sth.
