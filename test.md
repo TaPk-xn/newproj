@@ -1,16 +1,6 @@
-# 一级
-## 二级
-* hehe
-  * bb
-* hehe
-  + cc
-* hehe
-  - dd
-+ 1111
-  - 1.1
-  - 1.2
-+ 2222
-+ 3333
--ss
--ss
--ss
+1. aaa
+9. bbb
+4. ccc
+
+7. ggg
+0. ggg
