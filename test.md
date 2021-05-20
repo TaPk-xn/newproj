@@ -1,6 +1,6 @@
 safdasfdasdf
 
-```
+~~~
 /**
   * class
   */
@@ -12,6 +12,6 @@ public class Test {
         // do sth.
     }
 }
-```
+~~~
 
 asfdsafdasdfasdf
